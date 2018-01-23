@@ -1,0 +1,8 @@
+*~
+*.o
+*.o.d
+*.swp
+*.bak
+bench
+read.png
+write.png
